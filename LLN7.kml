@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>Laser Link Network</name>
+      <Placemark id="kml_modeltpc846551a_5f26_418c_b25e_3bf7524b488b_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 1</description>
+         <Model id="Model_kml_modeltpc846551a_5f26_418c_b25e_3bf7524b488b_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltpc846551a_5f26_418c_b25e_3bf7524b488b_1">
+               <latitude>0</latitude>
+               <longitude>-132.8125</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltpc846551a_5f26_418c_b25e_3bf7524b488b_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltpc846551a_5f26_418c_b25e_3bf7524b488b_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottp5172be61_9ab6_43a7_a3b8_6a977f01ba82">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 1
+
+Average Availability: 99.1%
+Bandwidth: 1.75 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp5172be61_9ab6_43a7_a3b8_6a977f01ba82">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-132.8125,0,10000000 -139.9,-8.9,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp260d0026_f883_4f69_b8db_464d36eac66b">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 1
+
+Average Availability: 99.5%
+Bandwidth: 1.94 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp260d0026_f883_4f69_b8db_464d36eac66b">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-132.8125,0,10000000 -157.85,21.283,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp7d3bac80_eea9_4a0a_bf7d_04e4792aa763">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 1
+
+Average Availability: 100%
+Bandwidth: 1.85 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp7d3bac80_eea9_4a0a_bf7d_04e4792aa763">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-132.8125,0,10000000 -111.9,40.75,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp04d220ff_2e33_4d0d_8738_bd79c6c8255b">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 1
+
+Average Availability: 99.6%
+Bandwidth: 2.41 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp04d220ff_2e33_4d0d_8738_bd79c6c8255b">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-132.8125,0,10000000 -73.90000000000001,40.8,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpd0dbe8f3_4c0f_48a2_91d8_9de8b901f50c">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 1
+
+Average Availability: 99%
+Bandwidth: 1.99 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpd0dbe8f3_4c0f_48a2_91d8_9de8b901f50c">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-132.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_modeltpd6ed87f0_85f1_4c0c_939e_d9aae84b9166_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 2</description>
+         <Model id="Model_kml_modeltpd6ed87f0_85f1_4c0c_939e_d9aae84b9166_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltpd6ed87f0_85f1_4c0c_939e_d9aae84b9166_1">
+               <latitude>0</latitude>
+               <longitude>-87.8125</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltpd6ed87f0_85f1_4c0c_939e_d9aae84b9166_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltpd6ed87f0_85f1_4c0c_939e_d9aae84b9166_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottp23a25c44_584a_4c46_8e47_e49d092b8449">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 2
+
+Average Availability: 99.1%
+Bandwidth: 1.91 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp23a25c44_584a_4c46_8e47_e49d092b8449">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-87.8125,0,10000000 -73.90000000000001,40.8,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp7407b92b_44fb_446d_8e04_4632b265418c">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 2
+
+Average Availability: 99.8%
+Bandwidth: 1.04 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp7407b92b_44fb_446d_8e04_4632b265418c">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-87.8125,0,10000000 -111.9,40.75,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp82b1e42d_780f_4a56_a269_2c8717917370">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 2
+
+Average Availability: 99.5%
+Bandwidth: 1.44 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp82b1e42d_780f_4a56_a269_2c8717917370">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-87.8125,0,10000000 -139.9,-8.9,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp857d7bbb_4ba9_4bbc_837d_015714a5d4d0">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 2
+
+Average Availability: 99.7%
+Bandwidth: 1.9 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp857d7bbb_4ba9_4bbc_837d_015714a5d4d0">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-87.8125,0,10000000 -70.75,-33.5,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp1b0e6818_feac_4950_992c_f6582ed2ba34">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 2
+
+Average Availability: 99%
+Bandwidth: 2.34 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp1b0e6818_feac_4950_992c_f6582ed2ba34">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-87.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_modeltpfb9738a6_3ff5_40a9_bd33_714bb288804b_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 3</description>
+         <Model id="Model_kml_modeltpfb9738a6_3ff5_40a9_bd33_714bb288804b_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltpfb9738a6_3ff5_40a9_bd33_714bb288804b_1">
+               <latitude>0</latitude>
+               <longitude>-42.8125</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltpfb9738a6_3ff5_40a9_bd33_714bb288804b_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltpfb9738a6_3ff5_40a9_bd33_714bb288804b_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottp59ca8019_069b_46bd_9cc0_d93ec81aab32">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 3
+
+Average Availability: 100%
+Bandwidth: 1.27 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp59ca8019_069b_46bd_9cc0_d93ec81aab32">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-42.8125,0,10000000 -73.90000000000001,40.8,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpbda73130_b15a_45d0_a785_5a4e00a4dbdf">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 3
+
+Average Availability: 99%
+Bandwidth: 2.49 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpbda73130_b15a_45d0_a785_5a4e00a4dbdf">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-42.8125,0,10000000 -3.7,40.4,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp4d4937b0_0307_4603_8f64_4640a8719269">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 3
+
+Average Availability: 99.4%
+Bandwidth: 2.14 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp4d4937b0_0307_4603_8f64_4640a8719269">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-42.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpf2e0f17a_9afd_4fea_b639_b8b0b2b8f68d">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 3
+
+Average Availability: 100%
+Bandwidth: 2.31 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpf2e0f17a_9afd_4fea_b639_b8b0b2b8f68d">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-42.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp8cf00e43_8c23_4488_aea6_019acc41d91d">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 3
+
+Average Availability: 100%
+Bandwidth: 1.44 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp8cf00e43_8c23_4488_aea6_019acc41d91d">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-42.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_modeltp16163f87_d194_4b0e_a0a7_0e94a05076f1_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 4</description>
+         <Model id="Model_kml_modeltp16163f87_d194_4b0e_a0a7_0e94a05076f1_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltp16163f87_d194_4b0e_a0a7_0e94a05076f1_1">
+               <latitude>0</latitude>
+               <longitude>2.1875</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltp16163f87_d194_4b0e_a0a7_0e94a05076f1_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltp16163f87_d194_4b0e_a0a7_0e94a05076f1_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottp9e65a1a1_69b9_4eba_9f5e_dd7bc47109af">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 4
+
+Average Availability: 99.7%
+Bandwidth: 2.36 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp9e65a1a1_69b9_4eba_9f5e_dd7bc47109af">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>2.1875,0,10000000 -3.7,40.4,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp29585e8d_b659_4e68_bb4a_de01e603b817">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 4
+
+Average Availability: 99.9%
+Bandwidth: 2.25 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp29585e8d_b659_4e68_bb4a_de01e603b817">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>2.1875,0,10000000 2.1,41.4,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp7785e9c4_5bb1_4536_95f6_5ffe7738c48a">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 4
+
+Average Availability: 99%
+Bandwidth: 2.36 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp7785e9c4_5bb1_4536_95f6_5ffe7738c48a">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>2.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpe3ee0d59_20a7_45b4_9214_ab669ceef0d0">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 4
+
+Average Availability: 99.6%
+Bandwidth: 1.86 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpe3ee0d59_20a7_45b4_9214_ab669ceef0d0">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>2.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpf90cafdf_7050_46a1_b193_b9e23301ff78">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 4
+
+Average Availability: 99.8%
+Bandwidth: 1.76 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpf90cafdf_7050_46a1_b193_b9e23301ff78">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>2.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_modeltp934c4028_b7ad_41fb_8c00_e36eafb23cf7_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 5</description>
+         <Model id="Model_kml_modeltp934c4028_b7ad_41fb_8c00_e36eafb23cf7_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltp934c4028_b7ad_41fb_8c00_e36eafb23cf7_1">
+               <latitude>0</latitude>
+               <longitude>47.1875</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltp934c4028_b7ad_41fb_8c00_e36eafb23cf7_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltp934c4028_b7ad_41fb_8c00_e36eafb23cf7_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottp65ae0ed2_7b10_4b12_9542_bbbb02bf3875">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 5
+
+Average Availability: 99.9%
+Bandwidth: 1.21 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp65ae0ed2_7b10_4b12_9542_bbbb02bf3875">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>47.1875,0,10000000 47.5,-18.9,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpa011c786_9807_4e58_b427_1125013c6553">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 5
+
+Average Availability: 99.7%
+Bandwidth: 1.89 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpa011c786_9807_4e58_b427_1125013c6553">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>47.1875,0,10000000 72.8,19,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpc9381c10_63a9_440b_91c9_2bed535cb2e8">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 5
+
+Average Availability: 99.5%
+Bandwidth: 1.36 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpc9381c10_63a9_440b_91c9_2bed535cb2e8">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>47.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpd243cf99_4ce0_46d0_97fb_c97f7449cb6e">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 5
+
+Average Availability: 100%
+Bandwidth: 2.38 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpd243cf99_4ce0_46d0_97fb_c97f7449cb6e">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>47.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpa4fb6b1e_993e_4932_b1d0_98f4d6496ec0">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 5
+
+Average Availability: 99.7%
+Bandwidth: 1.16 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpa4fb6b1e_993e_4932_b1d0_98f4d6496ec0">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>47.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_modeltp8f6c5636_3389_433d_83d5_1c2bc81c92d8_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 6</description>
+         <Model id="Model_kml_modeltp8f6c5636_3389_433d_83d5_1c2bc81c92d8_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltp8f6c5636_3389_433d_83d5_1c2bc81c92d8_1">
+               <latitude>0</latitude>
+               <longitude>92.1875</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltp8f6c5636_3389_433d_83d5_1c2bc81c92d8_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltp8f6c5636_3389_433d_83d5_1c2bc81c92d8_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottpb72c0e91_c6a9_4f58_aff0_6dce55ee951f">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 6
+
+Average Availability: 99.5%
+Bandwidth: 1.72 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpb72c0e91_c6a9_4f58_aff0_6dce55ee951f">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>92.1875,0,10000000 101.6,3.1,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpd7a8d6d0_713e_4167_811f_d00614146478">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 6
+
+Average Availability: 99%
+Bandwidth: 1.58 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpd7a8d6d0_713e_4167_811f_d00614146478">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>92.1875,0,10000000 103.9,1.25,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp1522482b_a228_47c1_8b6f_71fc6043475d">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 6
+
+Average Availability: 99.8%
+Bandwidth: 2.18 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp1522482b_a228_47c1_8b6f_71fc6043475d">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>92.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp0a27ab0e_0da6_480f_bc8b_7184dd42e211">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 6
+
+Average Availability: 99.1%
+Bandwidth: 1.62 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp0a27ab0e_0da6_480f_bc8b_7184dd42e211">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>92.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp8ef4f51e_4b54_45a0_b41f_67d376a1cbb1">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 6
+
+Average Availability: 99.8%
+Bandwidth: 1.38 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp8ef4f51e_4b54_45a0_b41f_67d376a1cbb1">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>92.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_modeltp4bb27914_29f6_4f81_ba75_c18d10886b28_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 7</description>
+         <Model id="Model_kml_modeltp4bb27914_29f6_4f81_ba75_c18d10886b28_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltp4bb27914_29f6_4f81_ba75_c18d10886b28_1">
+               <latitude>0</latitude>
+               <longitude>137.1875</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltp4bb27914_29f6_4f81_ba75_c18d10886b28_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltp4bb27914_29f6_4f81_ba75_c18d10886b28_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottpf80dc0d0_0888_4ce1_95d6_8c6d106eeadb">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.6%
+Bandwidth: 1.05 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpf80dc0d0_0888_4ce1_95d6_8c6d106eeadb">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>137.1875,0,10000000 147.1,-9.4,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp4d47f7c6_e5bd_4f19_9320_c75c7d162e2f">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.7%
+Bandwidth: 2.24 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp4d47f7c6_e5bd_4f19_9320_c75c7d162e2f">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>137.1875,0,10000000 130.8,-12.5,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpfe64423a_b683_4e02_bea4_8c2ac820c8ac">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.7%
+Bandwidth: 1.53 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpfe64423a_b683_4e02_bea4_8c2ac820c8ac">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>137.1875,0,10000000 120.9,14.6,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpe97514a9_82e7_445d_ae38_dee5ac24ab3b">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.5%
+Bandwidth: 1.42 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpe97514a9_82e7_445d_ae38_dee5ac24ab3b">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>137.1875,0,10000000 106.8,-6.4,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpa2123ccf_f8c7_4506_a153_8f559ceb8e49">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.2%
+Bandwidth: 2.15 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpa2123ccf_f8c7_4506_a153_8f559ceb8e49">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>137.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_modeltp4faa1033_6fcd_44aa_bfd6_c50c16138437_1">
+         <name>kml_model</name>
+         <visibility>1</visibility>
+         <description>Satellite 8</description>
+         <Model id="Model_kml_modeltp4faa1033_6fcd_44aa_bfd6_c50c16138437_1">
+            <altitudeMode>absolute</altitudeMode>
+            <Location id="Location_kml_modeltp4faa1033_6fcd_44aa_bfd6_c50c16138437_1">
+               <latitude>0</latitude>
+               <longitude>-177.8125</longitude>
+               <altitude>10000000</altitude>
+            </Location>
+            <Orientation id="Orientation_kml_modeltp4faa1033_6fcd_44aa_bfd6_c50c16138437_1">
+               <heading>1</heading>
+               <tilt>0</tilt>
+               <roll>270</roll>
+            </Orientation>
+            <Scale id="Scale_kml_modeltp4faa1033_6fcd_44aa_bfd6_c50c16138437_1">
+               <x>10000</x>
+               <y>10000</y>
+               <z>10000</z>
+            </Scale>
+            <Link>
+               <href>TAPPLE 1.dae</href>
+            </Link>
+         </Model>
+      </Placemark>
+      <Placemark id="kml_plottp2b23f6a9_5264_4b19_8b5b_3406cf0da3d5">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.6%
+Bandwidth: 1.81 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp2b23f6a9_5264_4b19_8b5b_3406cf0da3d5">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-177.8125,0,10000000 -157.85,21.283,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp2718d193_d0c1_4286_b2d3_826b1939d1c1">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 100%
+Bandwidth: 2.16 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp2718d193_d0c1_4286_b2d3_826b1939d1c1">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-177.8125,0,10000000 -139.9,-8.9,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpe9226260_32c3_473f_a739_b20e2d26d509">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.6%
+Bandwidth: 2.19 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpe9226260_32c3_473f_a739_b20e2d26d509">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-177.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp1c0245a3_77e5_442d_815e_938d6cd832a2">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.6%
+Bandwidth: 1.11 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp1c0245a3_77e5_442d_815e_938d6cd832a2">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-177.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpcb7c3f3b_2b9b_4c03_ab5c_90f6bced61f8">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.5%
+Bandwidth: 2.28 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpcb7c3f3b_2b9b_4c03_ab5c_90f6bced61f8">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-177.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp7bbc8ac9_dd17_4804_86a9_14cb2bfa1131">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.4%
+Bandwidth: 1.35 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FFFF0000</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp7bbc8ac9_dd17_4804_86a9_14cb2bfa1131">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-87.8125,0,10000000 -42.8125,0,10000000 2.1875,0,10000000 47.1875,0,10000000 92.1875,0,10000000 137.1875,0,10000000 -177.8125,0,10000000 -132.8125,0,10000000 -87.8125,0,10000000 -42.8125,0,10000000 2.1875,0,10000000 47.1875,0,10000000 92.1875,0,10000000 137.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp77dbefb6_f8f1_4e1d_aa1f_4b810767b271">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.5%
+Bandwidth: 1.55 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FFFF0000</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp77dbefb6_f8f1_4e1d_aa1f_4b810767b271">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-42.8125,0,10000000 47.1875,0,10000000 137.1875,0,10000000 -132.8125,0,10000000 -42.8125,0,10000000 47.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp7cace360_e9a0_4708_8e94_517fc1dce460">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.8%
+Bandwidth: 2.16 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FFFF0000</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp7cace360_e9a0_4708_8e94_517fc1dce460">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>2.1875,0,10000000 92.1875,0,10000000 -177.8125,0,10000000 -87.8125,0,10000000 2.1875,0,10000000 92.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <LookAt id="kml_pointtp65540448_6be1_463c_8a13_858df8b62d5a_1">
+         <longitude>172</longitude>
+         <latitude>17.809</latitude>
+         <altitude>0</altitude>
+         <heading>13</heading>
+         <tilt>0</tilt>
+         <range>33270132</range>
+         <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
+   </Document>
+</kml>
